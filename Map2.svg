@@ -1,0 +1,161 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="595.2pt"
+    height="425.28pt"
+    viewBox="0 0 595.2 425.28">
+<defs>
+  <meshgradient id="meshgradient0" gradientUnits="objectBoundingBox" x="0" y="0" type="bilinear">
+   <meshrow id="meshrow0">
+    <meshpatch id="meshpatch0">
+     <stop path="C 0.3333333333,0 0.6666666667,0 1,0" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 1,0.01666666667 1,0.03333333333 1,0.05" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0.6666666667,0.05 0.3333333333,0.05 0,0.05" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.03333333333 0,0.01666666667 0,0" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow1">
+    <meshpatch id="meshpatch1">
+     <stop path="C 1,0.06666666667 1,0.08333333333 1,0.1"/>
+     <stop path="C 0.6666666667,0.1 0.3333333333,0.1 0,0.1" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.08333333333 0,0.06666666667 0,0.05" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow2">
+    <meshpatch id="meshpatch2">
+     <stop path="C 1,0.1166666667 1,0.1333333333 1,0.15"/>
+     <stop path="C 0.6666666667,0.15 0.3333333333,0.15 0,0.15" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.1333333333 0,0.1166666667 0,0.1" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow3">
+    <meshpatch id="meshpatch3">
+     <stop path="C 1,0.1666666667 1,0.1833333333 1,0.2"/>
+     <stop path="C 0.6666666667,0.2 0.3333333333,0.2 0,0.2" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.1833333333 0,0.1666666667 0,0.15" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow4">
+    <meshpatch id="meshpatch4">
+     <stop path="C 1,0.2166666667 1,0.2333333333 1,0.25"/>
+     <stop path="C 0.6666666667,0.25 0.3333333333,0.25 0,0.25" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.2333333333 0,0.2166666667 0,0.2" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow5">
+    <meshpatch id="meshpatch5">
+     <stop path="C 1,0.2666666667 1,0.2833333333 1,0.3"/>
+     <stop path="C 0.6666666667,0.3 0.3333333333,0.3 0,0.3" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.2833333333 0,0.2666666667 0,0.25" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow6">
+    <meshpatch id="meshpatch6">
+     <stop path="C 1,0.3166666667 1,0.3333333333 1,0.35"/>
+     <stop path="C 0.6666666667,0.35 0.3333333333,0.35 0,0.35" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.3333333333 0,0.3166666667 0,0.3" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow7">
+    <meshpatch id="meshpatch7">
+     <stop path="C 1,0.3666666667 1,0.3833333333 1,0.4"/>
+     <stop path="C 0.6666666667,0.4 0.3333333333,0.4 0,0.4" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.3833333333 0,0.3666666667 0,0.35" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow8">
+    <meshpatch id="meshpatch8">
+     <stop path="C 1,0.4166666667 1,0.4333333333 1,0.45"/>
+     <stop path="C 0.6666666667,0.45 0.3333333333,0.45 0,0.45" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.4333333333 0,0.4166666667 0,0.4" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow9">
+    <meshpatch id="meshpatch9">
+     <stop path="C 1,0.4666666667 1,0.4833333333 1,0.5"/>
+     <stop path="C 0.6666666667,0.5 0.3333333333,0.5 0,0.5" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.4833333333 0,0.4666666667 0,0.45" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow10">
+    <meshpatch id="meshpatch10">
+     <stop path="C 1,0.5166666667 1,0.5333333333 1,0.55"/>
+     <stop path="C 0.6666666667,0.55 0.3333333333,0.55 0,0.55" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.5333333333 0,0.5166666667 0,0.5" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow11">
+    <meshpatch id="meshpatch11">
+     <stop path="C 1,0.5666666667 1,0.5833333333 1,0.6"/>
+     <stop path="C 0.6666666667,0.6 0.3333333333,0.6 0,0.6" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.5833333333 0,0.5666666667 0,0.55" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow12">
+    <meshpatch id="meshpatch12">
+     <stop path="C 1,0.6166666667 1,0.6333333333 1,0.65"/>
+     <stop path="C 0.6666666667,0.65 0.3333333333,0.65 0,0.65" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.6333333333 0,0.6166666667 0,0.6" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow13">
+    <meshpatch id="meshpatch13">
+     <stop path="C 1,0.6666666667 1,0.6833333333 1,0.7"/>
+     <stop path="C 0.6666666667,0.7 0.3333333333,0.7 0,0.7" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.6833333333 0,0.6666666667 0,0.65" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow14">
+    <meshpatch id="meshpatch14">
+     <stop path="C 1,0.7166666667 1,0.7333333333 1,0.75"/>
+     <stop path="C 0.6666666667,0.75 0.3333333333,0.75 0,0.75" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.7333333333 0,0.7166666667 0,0.7" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow15">
+    <meshpatch id="meshpatch15">
+     <stop path="C 1,0.7666666667 1,0.7833333333 1,0.8"/>
+     <stop path="C 0.6666666667,0.8 0.3333333333,0.8 0,0.8" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.7833333333 0,0.7666666667 0,0.75" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow16">
+    <meshpatch id="meshpatch16">
+     <stop path="C 1,0.8166666667 1,0.8333333333 1,0.85"/>
+     <stop path="C 0.6666666667,0.85 0.3333333333,0.85 0,0.85" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.8333333333 0,0.8166666667 0,0.8" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow17">
+    <meshpatch id="meshpatch17">
+     <stop path="C 1,0.8666666667 1,0.8833333333 1,0.9"/>
+     <stop path="C 0.6666666667,0.9 0.3333333333,0.9 0,0.9" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.8833333333 0,0.8666666667 0,0.85" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow18">
+    <meshpatch id="meshpatch18">
+     <stop path="C 1,0.9166666667 1,0.9333333333 1,0.95"/>
+     <stop path="C 0.6666666667,0.95 0.3333333333,0.95 0,0.95" stop-color="#ffffff" stop-opacity="1"/>
+     <stop path="C 0,0.9333333333 0,0.9166666667 0,0.9" stop-color="#4d2689" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+   <meshrow id="meshrow19">
+    <meshpatch id="meshpatch19">
+     <stop path="C 1,0.9666666667 1,0.9833333333 1,1"/>
+     <stop path="C 0.6666666667,1 0.3333333333,1 0,1" stop-color="#4d2689" stop-opacity="1"/>
+     <stop path="C 0,0.9833333333 0,0.9666666667 0,0.95" stop-color="#ffffff" stop-opacity="1"/>
+    </meshpatch>
+   </meshrow>
+  </meshgradient>
+  <linearGradient id="gradient0" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1" spreadMethod="pad">
+   <stop stop-color="#f59b14" offset="0.30086140871048" stop-opacity="1"/>
+   <stop stop-color="#dcfaff" offset="0.546816479400749" stop-opacity="1"/>
+  </linearGradient>
+ </defs>
+<rect id="shape0" transform="translate(55.2, 94.56)" fill="none" stroke="#3f007f" stroke-width="2.88" stroke-linecap="square" stroke-linejoin="bevel" width="489.12" height="227.52"/><path id="shape1" transform="translate(493.679965670134, 264.959981575026)" fill="none" stroke="#297f00" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" d="M8.64 0L0 31.44L8.64 20.88L18 32.64L8.64 0" sodipodi:nodetypes="ccccc"/><path id="shape2" transform="translate(502.079965086009, 266.159981491579)" fill="none" stroke="#297f00" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L0 20.64" sodipodi:nodetypes="cc"/><path id="shape01" transform="translate(67.1399993330254, 99.1799990147372)" fill="#ffea00" fill-rule="evenodd" stroke="#000000" stroke-width="0.72" stroke-linecap="square" stroke-linejoin="bevel" d="M31.32 0L38.88 5.22L46.62 5.04L49.32 2.52L50.58 5.22L50.22 9.72L52.74 14.94L53.1 18L55.8 19.8L59.4 24.48L66.24 27.36L72.72 27.9L74.52 30.24L73.98 34.2L71.82 37.8L65.7 39.24L63.36 38.34L63 35.64L58.68 35.82L55.44 36L46.98 38.34L36.36 38.52L32.4 43.92L24.66 50.76L16.02 53.46L11.16 56.7L3.78 62.64L2.7 64.62L2.7 61.02L3.42 56.88L6.84 54.18L13.5 51.84L15.84 49.5L15.48 46.8L5.22 48.42L0.36 47.16L0 41.58L4.86 38.34L6.48 32.4L6.48 26.82L7.92 25.02L11.7 24.84L13.86 21.96L13.5 18.18L10.44 12.6L10.98 9L12.96 8.1L17.28 4.86L20.34 4.32L22.5 4.5L27.18 1.62L31.32 0" sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccc"/><path id="shape11" transform="translate(64.0799955439584, 96.4799932909037)" fill="url(#meshgradient0)" fill-rule="evenodd" stroke="#000000" stroke-width="0.72" stroke-linecap="square" stroke-linejoin="bevel" d="M79.56 34.2L75.6 42.84L78.84 44.64L82.08 46.08L83.52 48.24L92.88 48.24L92.52 49.32L89.64 51.12L79.56 51.48L77.04 48.96L69.48 56.16L74.52 58.68L76.32 58.68L74.88 61.92L62.28 57.24L52.56 59.4L50.76 60.84L51.12 56.52L44.64 53.28L43.2 57.6L45 59.04L43.2 61.56L37.08 60.48L34.92 58.32L33.48 56.52L22.68 56.16L12.24 63.36L2.16 74.16L0 84.6L1.8 87.12L18 84.96L21.24 84.96L16.2 92.88L16.56 93.6L16.2 97.2L18.36 100.44L16.56 104.76L20.88 105.48L22.32 107.64L16.56 108.72L13.32 111.6L16.92 116.16L19.08 121.68L14.76 121.68L9 119.88L8.64 116.16L5.76 112.32L6.84 122.04L5.04 123.48L1.8 121.68L3.6 127.44L8.28 130.32L9.72 131.76L13.32 129.24L30.6 116.16L47.52 102.96L61.56 79.56L71.64 70.92L82.44 71.64L104.04 77.04L113.4 78.12L111.24 69.48L122.04 70.56L123.12 72L132.84 73.44L141.48 73.8L143.64 74.52L144.72 81.72L156.96 106.92L169.2 116.16L169.2 106.56L175.32 94.32L177.12 80.28L192.24 65.16L207.72 67.32L221.04 73.08L237.96 75.6L270.72 67.68L287.28 64.08L301.68 69.48L337.32 68.04L353.88 73.8L353.88 66.6L370.8 57.6L380.16 55.08L388.8 40.32L404.64 20.88L418.32 22.68L431.64 23.4L425.88 14.04L411.48 6.84L402.48 2.16L393.48 7.2L384.12 7.92L378 6.84L377.28 3.6L369.36 16.56L355.32 24.12L347.4 28.44L338.4 30.6L329.4 28.08L324.72 27.72L306 34.56L290.16 33.12L286.2 28.8L280.8 31.32L271.08 29.16L260.28 24.12L252.36 27.72L245.16 21.6L245.16 12.96L238.68 11.88L233.52 14.76L223.92 10.08L221.76 5.4L218.52 0L213.48 7.2L172.8 7.2L168.84 11.52L160.92 12.6L138.24 27.72L126.36 36.36L111.6 36.36L97.56 35.64L79.56 34.2" sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"/><path id="shape3" transform="translate(88.1999995378738, 164.15999913988)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" d="M80.64 48.48L46.44 82.8L33.84 92.16L20.88 92.88L6.12 90.36L8.28 96.12L5.76 97.56L4.68 95.76L0 100.08L5.04 100.8L8.28 101.52L29.52 98.64L20.52 106.92L5.04 109.44L3.6 111.24L16.92 111.24L20.16 113.76L19.8 114.84L27.72 111.96L27.72 107.64L36 108.72L39.96 111.96L41.76 116.28L46.08 111.96L48.24 113.4L45.36 114.12L49.32 123.48L61.56 128.16L64.8 129.96L79.56 124.92L84.24 130.32L88.2 122.76L87.12 117.72L88.92 117L87.48 110.16L91.08 106.56L101.52 108.36L128.16 119.88L135 129.96L144.36 133.92L152.64 132.48L153.72 133.56L156.6 130.32L167.04 130.68L172.44 125.64L173.52 124.2L177.48 124.2L180.36 118.08L187.92 111.6L195.48 105.84L198 105.84L201.96 108.72L204.84 110.52L209.4 112.68L209.4 109.8L209.4 111.24L218.16 110.88L220.32 109.08L217.8 106.56L228.24 100.8L232.92 107.28L223.2 122.4L226.08 125.28L227.52 129.6L229.68 135.36L232.56 137.88L237.24 132.12L241.56 124.2L246.24 123.84L244.8 120.24L242.28 116.28L244.08 108.36L247.68 106.56L251.64 103.32L254.52 99.36L259.2 93.6L255.6 85.68L264.24 72.72L277.56 62.64L293.76 59.04L297.72 59.04L300.12 57.36L307.2 50.76L321.96 45L334.62 38.88L339.24 38.88L345.24 40.32L349.8 40.32L352.2 39.6L356.76 45.84L364.92 48.48L378.36 51.36L390.6 53.04L401.88 55.68L406.44 58.56L419.16 58.08L426.36 54.72L433.08 55.44L437.16 59.04L440.04 58.8L442.44 62.4L441.24 68.64L439.08 73.92L442.44 75.12L448.2 66.24L450.36 65.52L452.04 61.2L444.12 53.76L441.24 48.48L436.68 46.08L409.32 39.6L411.48 48.48L409.32 51.12L405.24 48.48L393.96 51.84L388.68 48.48L377.88 48.48L372.36 43.44L367.32 44.16L361.8 44.4L351.96 34.32L339.24 37.68L327.72 36.96L328.68 32.64L340.92 30L348.12 25.44L353.4 28.56L355.8 28.32L349.32 9.6L326.52 4.8L312.84 0L279 2.64L270.6 1.44L255 15.12L246.6 25.2L233.88 35.28L222.36 42.72L209.4 48.48L203.76 61.92L197.28 86.76L192.24 86.04L176.76 91.44L158.76 86.85L138.24 82.32L132.84 80.28L125.52 72.6L116.4 64.2L111.36 57.72L99.36 50.4L90 48.48Z" sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"/><path id="shape02" transform="translate(83.8799941670917, 160.559988834862)" fill="none" stroke="#297f00" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M0 60.48L30.6 34.92L45.72 8.64L56.88 7.2L93.24 12.6L90.72 8.64L96.48 6.12L106.2 9.72L122.04 9.36L131.4 34.92L138.96 46.44L148.68 52.08L151.56 39.24L157.68 21.6L168.48 9L173.52 0L194.4 7.56L213.72 8.64L219.24 11.88L250.92 2.52L264.96 0.36L276.84 5.4L311.76 4.68L316.08 4.32" sodipodi:nodetypes="cccccccccccccccccccccccc"/><path id="shape12" transform="translate(108.95999242306, 183.959987207656)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape011" transform="matrix(0.949591227286949 0.313490830902068 -0.313490830902068 0.949591227286949 94.6755779142761 198.284496174613)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape021" transform="matrix(0.999971723074674 -0.0075201762657173 0.0075201762657173 0.999971723074674 117.007685527886 169.978095930624)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape03" transform="matrix(0.229327411869311 0.97334934025011 -0.97334934025011 0.229327411869311 188.605232249309 158.894028106735)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape04" transform="matrix(-0.542975437525335 0.839748577994736 -0.839748577994736 -0.542975437525335 220.477531003877 179.29586701965)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape05" transform="matrix(0.390830050047546 0.920462857468913 -0.920462857468913 0.390830050047546 156.03558266242 159.51144178586)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape06" transform="matrix(0.976861702414844 -0.213871957851359 0.213871957851359 0.976861702414844 228.605180449438 187.301361561015)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape07" transform="matrix(0.999728402948615 -0.023304942347344 0.023304942347344 0.999728402948615 242.464235025318 165.978070185423)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape08" transform="matrix(0.492623116281818 0.870242762282339 -0.870242762282339 0.492623116281818 281.014006393417 157.422769232533)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape09" transform="matrix(0.756596498533054 0.653882052366882 -0.653882052366882 0.756596498533054 309.206354525735 159.649696832333)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape010" transform="matrix(0.61211676005346 0.790767394409795 -0.790767394409795 0.61211676005346 341.563893991159 151.770029632194)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape0111" transform="matrix(0.561713692124109 0.827331691693424 -0.827331691693424 0.561713692124109 374.943098583864 155.743741831433)" fill="#1f512b" fill-rule="evenodd" stroke="#1f512b" stroke-width="1.44" stroke-linecap="square" stroke-linejoin="bevel" d="M5.76 8.64L11.16 0.36L0 0Z" sodipodi:nodetypes="cccc"/><path id="shape21" transform="translate(233.999983727943, 212.64)" fill="none" stroke="#297f00" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" d="M0 0L10.44 5.51998L19.08 13.26L29.34 21.54L39.24 26.94L54.54 28.92" sodipodi:nodetypes="cccccc"/><path id="shape31" transform="translate(299.519979171767, 165.959988459357)" fill="none" stroke="#297f00" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" d="M0 37.98L22.86 28.98L39.42 16.56L50.94 6.66L58.32 0" sodipodi:nodetypes="ccccc"/><text id="shape012" krita:useRichText="true" text-rendering="auto" krita:textVersion="3" transform="translate(231.839990787519, 151.079994592674)" fill="#000000" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" letter-spacing="0" text-anchor="middle" word-spacing="0" style="text-align: start;text-align-last: auto;font-family: Cooper Black;font-size: 16;"><tspan x="34.875">Pontides</tspan></text><text id="shape13" krita:useRichText="true" text-rendering="auto" krita:textVersion="3" transform="translate(198.719992103587, 165.839994006165)" fill="#004320" stroke-opacity="0" stroke="#000000" stroke-width="0" stroke-linecap="square" stroke-linejoin="bevel" letter-spacing="0" text-anchor="middle" word-spacing="0" style="text-align: start;text-align-last: auto;font-family: Cooper Black;font-size: 10;font-weight: 700;"><tspan x="21.375">Ankara</tspan></text>
+</svg>
